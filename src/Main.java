@@ -4,5 +4,9 @@ public class Main {
 
         String var = "This will be commited as a test!";
         System.out.println(var);
+
+        int num = 9;
+        System.out.println(num);
+
     }
 }
